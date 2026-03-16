@@ -17,15 +17,24 @@ A aplicação é dividida em duas camadas principais:
 
 Primeiro, faça o clone do projeto utilizando o Git:
 
-```bash
 git clone https://github.com/MuriloRicardoPrincipe/GastosResidenciais
 
 
 ## 2. Configurando backend
+Abra a solução com o Visual Studio.
 
-
+Realize o processo de criação das tabelas.
+Em -> Console do Gerenciador de Pacotes use o comanto
+Update-database 
 
 ## 3. Configurando frontend
+
+Abra a pasta GastosResidenciais.Frontend
+Acesse a pasta GastosResidenciais
+
+Use o comando npm i para instalar e npm run dev para rodar o projeto do front
+
+ GastosResidenciais.Frontend
 ---
 
 # Cadastro de Pessoas
